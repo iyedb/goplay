@@ -1,5 +1,5 @@
 package main
 
-fun main() {
+func main() {
   vals := make([]string, 3)
 }
